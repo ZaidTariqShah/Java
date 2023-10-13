@@ -1,5 +1,3 @@
-package Java_Practice;
-
 class A {
     int num = 10;
     int Square(int num) {

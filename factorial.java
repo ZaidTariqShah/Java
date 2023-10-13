@@ -1,5 +1,3 @@
-package Java_Practice;
-
 public class factorial {
     public static void main(String[] args) {
         int num = 6;
